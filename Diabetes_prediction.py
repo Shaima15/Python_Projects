@@ -13,6 +13,7 @@ from sklearn.metrics import accuracy_score
 
 Diab = pd.read_csv('C:/Users/shaim/Downloads/diabetes.csv') 
 
+#check the first 5 rows of data
 Diab.head()
 
 #number of rows and column 
@@ -22,7 +23,7 @@ Diab.shape
 
 Diab.describe()
 
-#returns count for outcome type (0,1)
+#returns count for outcome variable 
 
 Diab['Outcome'].value_counts()
 
@@ -31,9 +32,11 @@ Diab['Outcome'].value_counts()
 Diab.groupby('Outcome').mean()
 
 #separating data and labels
+
 x= Diab.drop(columns= 'Outcome', axis =1) #separates the column named outcome from the 
 #rest of the columns. axis = 1 should be specified when we are dealing with columns but
 #we should use 0 if we are dealing with rows.
+
 y= Diab['Outcome'] #stores the column outcome in y variable 
 
 # data standardisation
