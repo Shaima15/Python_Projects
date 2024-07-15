@@ -12,6 +12,8 @@ This project used publicly available data to predict diabetic female patients ba
 
 **Skills**: · Python (Programming Language) · Scikit-Learn · Healthcare Analytics · Predictive Analytics
 
+
+
 **2- Credit Card Fraud Prediction**
 
 Initially, this project trained and validated various machine-learning models using an imbalanced dataset to predict fraudulent activities. However, to improve results, the dataset was balanced by reducing the number of the majority class. Then, all of the models were trained and validated on the balanced dataset to select the best model with an optimal recall and f1-score. 
