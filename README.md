@@ -32,6 +32,9 @@ The following models were trained:
 
 This project used Python to perform descriptive statistics on a dataset with 14999 observations and 11 variables to derive insights on why employees leave the organization. It included data preprocessing, data visualization, and a summary of key findings 
 
+**Skills**: · Python (Programming Language) ·Numpy ·Matplotlib ·Descriptive Statistics 
+
+
 
 
 
