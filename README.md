@@ -25,6 +25,8 @@ The following models were trained:
 - Random forest
 - Gradient Boosting Classifier 
 - Support Vector Machine
+
+**Results**: Achieved a 91% recall with logistic regression (best model), a 34% improvement over the 57% recall of the random forest model, significantly enhancing fraud detection
   
 **Skills**: · Python (Programming Language) · Deep Learning · TensorFlow · Scikit-Learn · Kera
 
