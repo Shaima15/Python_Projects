@@ -8,7 +8,7 @@
 
 This project used publicly available data to predict diabetic female patients based on relevant features such as blood glucose, pregnancy, etc. It involved EDA, data standardization, and using an instance of Support Vector Machine classifier to classify the data. 
 
-**Results**: A predictive system that can take input values and predict whether the patient is diabetic or not with great accuracy. 
+**Results**: A predictive system that can take input values and predict whether the patient is diabetic or not with test data accuracy of 77% 
 
 **Skills**: · Python (Programming Language) · Scikit-Learn · Healthcare Analytics · Predictive Analytics
 
