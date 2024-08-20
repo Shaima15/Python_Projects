@@ -40,7 +40,9 @@ This project utilized Python's Pandas, Matplotlib, and NumPy to perform descript
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4- Financial Data Web Scraping**
 
-This project utilized Google Colab to web scrap S&P 500 companies available in Wikipedia. It included data exploration, creating a new data frame for the Energy sector, and importing yfinance library to download historical stock price information from Yahoo Finance (2021-2024). Also, 'for loops' were used to create separate data frames for each ticker which were later appended into an empty data frame. Additionally, Plotly was used to create a candlestick visualization for the ticker APA. Finally, the data frame containing all the tickers was exported as a CSV file
+This project utilized Google Colab to web scrap S&P 500 companies available in Wikipedia. It included data exploration, creating a new data frame for the Energy sector, and importing yfinance library to download historical stock price information from Yahoo Finance (2021-2024). Also, 'for loops' were used to create separate data frames for each ticker which were later appended into an empty data frame. Additionally, Plotly was used to create a candlestick visualization for the ticker APA. Finally, the data frame containing all the tickers was exported as a CSV file. 
+
+**Skills**: Web Scraping · Plotly · Stock Market · Data Cleaning
 
 
 
