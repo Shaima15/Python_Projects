@@ -29,12 +29,14 @@ The following models were trained:
 **Results**: Achieved a 91% recall with logistic regression (best model), a 34% improvement over the 57% recall of the random forest model, significantly enhancing fraud detection.
   
 **Skills**: · Python (Programming Language) · Deep Learning · TensorFlow · Scikit-Learn · Kera
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3- HR Employee Dataset Descriptive Analytics**
 
 This project utilized Python's Pandas, Matplotlib, and NumPy to perform descriptive statistics on a dataset with 14,999 observations. It conducted data preprocessing, visualization, and key findings summarization to uncover reasons for employee attrition, and handled outliers, leading to strategic retention recommendations.
 
 **Skills**: · Python (Programming Language) · Data Visualization · Descriptive Statistics 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4- Financial Data Web Scraping**
 
