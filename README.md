@@ -12,6 +12,8 @@ Results: Since data was moderatly imbalanced, recall was used as the deciding fa
 
 **Skills**: · Python (Programming Language) · Predictive Analysis · Machine Learning · Healthcare Analytics
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **2- HR Employee Dataset Descriptive Analytics**
 
 This project utilized Python's Pandas, Matplotlib, and NumPy to perform descriptive statistics on a dataset with 14,999 observations. It conducted data preprocessing, visualization, and key findings summarization to uncover reasons for employee attrition, and handled outliers, leading to strategic retention recommendations.
