@@ -8,7 +8,7 @@ This project used publicly available data to predict diabetic female patients ba
 
 Models used: Decision trees and logistic regression 
 
-Results: Since data was moderatly imbalanced, recall was used as the deciding factor. Logistic regression is better able to handle imbalanced data, so it had a recall of 77% compared to decision tree were the recall was 66%, making the former a better predictive model that ensures less missed diagnoses and improved model performance for clinical applications
+Results: Since data was moderately imbalanced, recall was used as the deciding factor. Logistic regression is better able to handle imbalanced data, so it had a recall of 77% compared to decision tree were the recall was 66%, making the former a better predictive model that ensures less missed diagnoses and improved model performance for clinical applications
 
 **Skills**: · Python (Programming Language) · Predictive Analysis · Machine Learning · Healthcare Analytics
 
